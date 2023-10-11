@@ -1,0 +1,86 @@
+.Container>div{
+    border: solid 1px black;
+    width: 80px;
+    height: 100px;
+    display: inline-block;
+    margin: 0 5px 5px 0;
+    
+}
+#main-container{
+    margin: 10px 520px 0 520px;
+}
+.tarjeta{
+    background-color: blue;  
+}
+
+.noFlipped{
+    content-visibility: hidden;
+}
+body{
+    background-color: gray;
+}
+
+.DragonRojo{
+    background-image: url(Dragon-rojo.jpeg);
+ 
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.DragonVerde{
+    background-image: url(Dragon-verde.jpeg);
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.DragonBlanco{
+    background-image: url(Dragon-Blanco.jpg);
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.Fenix{
+    background-image: url(Fenix.jpeg);
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.Ninfa{
+    background-image: url(Ninfa.jpg);
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.Hada{
+    background-image: url(Hada.jpeg);
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.Kitsune{
+    background-image: url(Kitsune.jpg);
+
+    max-width: 80px;
+    max-height: 100px;
+}
+.Demonio{
+    background-image: url(Demonio.jpg);
+
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.Hipocampo{
+    background-image: url(Hipocampo.jpg);
+    background-image: url(Hipocampo.jpg);
+
+    max-width: 80px;
+    max-height: 100px;
+}
+
+.AveMitica{
+    background-image: url(Ave_mitica.jpg);
+
+    max-width: 80px;
+    max-height: 100px;
+}
